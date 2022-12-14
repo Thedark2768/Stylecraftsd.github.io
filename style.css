@@ -1,0 +1,112 @@
+body{
+  background: #0CB7F2;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: boder-box;
+  box-sizing: border-box;
+}
+
+.titulo{
+  font-size: 96px;
+  font-weight: 900;
+  line-height: 1;
+  color: #def7ff;
+	padding: 5px;
+	text-align: center;
+}
+
+.p1{
+	font-size:60px;
+  font-weight: 900;
+  line-height: 1;
+  color: #bceeff;
+	padding: 8px;
+}
+
+.comandos{
+    font-size: 40px;
+}
+
+.padre{
+	width: 600px;
+   height: 600px;
+   background-image: url(dueno.png);
+   background-size: cover;
+   border: 10px solid #8fe3ff;
+   margin: 0 auto;
+}
+
+.p1{
+	font-size: 30px;
+  font-weight: 900;
+  line-height: 1;
+  color: #bceeff;
+	padding: 8px;
+}
+
+.comandos{
+    font-size: 20px;
+}
+
+.padre{
+	width: 300px;
+   height: 300px;
+   background-image: url(dueno.png);
+   background-size: cover;
+   border: 5px solid #8fe3ff;
+   margin: 0 auto;
+}
+
+@media screen and (max-width: 800px){
+    .titulo{
+  font-size: 80px;
+  font-weight: 900;
+  line-height: 1;
+}
+
+.p1{
+	font-size:60px;
+  font-weight: 900;
+  line-height: 1;
+  color: #bceeff;
+	padding: 8px;
+}
+
+.comandos{
+    font-size: 40px;
+}
+
+.padre{
+	width: 600px;
+   height: 600px;
+   background-image: url(dueno.png);
+   background-size: cover;
+   border: 10px solid #8fe3ff;
+   margin: 0 auto;
+}
+
+.p1{
+	font-size: 30px;
+  font-weight: 900;
+  line-height: 1;
+  color: #bceeff;
+	padding: 8px;
+}
+
+.comandos{
+    font-size: 20px;
+}
+
+.padre{
+	width: 300px;
+   height: 300px;
+   background-image: url(dueno.png);
+   background-size: cover;
+   border: 5px solid #8fe3ff;
+   margin: 0 auto;
+}
+}
